@@ -12,7 +12,7 @@ let package = Package(
   ],
   dependencies: [
     .package(url: "https://github.com/Quick/Quick", from: "3.1.2"),
-    .package(url: "https://github.com/Quick/Nimble", from: "9.2.1")
+    .package(url: "https://github.com/Quick/Nimble", from: "9.2.0")
   ],
   targets: [
     .target(
